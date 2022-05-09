@@ -1,2 +1,2 @@
 payload:
-  - '*.zoho.com'
+  - DOMAIN-SUFFIX,zoho.com
