@@ -1,2 +1,2 @@
 payload:
-  - 'smtppro.zoho.com'
+  - 'zoho.com'
